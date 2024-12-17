@@ -1,2 +1,8 @@
-# latest-website
- i am facing a issue in the main image of Charity section. when i add this image it shows scrolll bar in width and when i removes the image the scrollbar gone. i also resize the image also play with width of containers and image but problem not solving
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
